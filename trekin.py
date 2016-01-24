@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# Import Kindle highlights in python
+# Import Kindle highlights in Trello
 # Author - Tudor Barbu <hello@tudorbarbu.ninja>
 # Licence - Apache 2
 

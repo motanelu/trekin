@@ -1,5 +1,9 @@
 #!/usr/bin/env python
 
+# Import Kindle highlights in python
+# Author - Tudor Barbu <hello@tudorbarbu.ninja>
+# Licence - Apache 2
+
 import os, sys, json, ConfigParser, trello
 
 def get_app_config():
